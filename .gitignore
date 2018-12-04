@@ -11,6 +11,6 @@ yarn-error.log*
 /.changelog
 .npm/
 snapkite-engine
-snapterest/package-lock.json
-snapterest/node_modules
-snapterest/build/snapterest.js
+package-lock.json
+node_modules
+build/snapterest.js
